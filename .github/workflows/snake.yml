@@ -1,0 +1,25 @@
+name: Snake Game Contributions 🐍
+
+on:
+  schedule:
+    - cron: "0 23 * * *" # Executa diariamente às 23h UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar o Repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a Animação da Cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: viniciuspaim
+          outputs: dist/snake.svg
+
+      - name: Publicar no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
