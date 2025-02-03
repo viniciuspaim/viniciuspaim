@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 Contribuições!
-
-![Snake animation](https://github.com/viniciuspaim/viniciuspaim/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📂 Projetos Recentes
 
 ### 🚀 [Projeto do Intensivão do Nélio Alves](https://github.com/viniciuspaim/dslist)  
