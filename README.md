@@ -2,13 +2,13 @@
 
 🎯 **Desenvolvedor focado em Java e C#, curioso e sempre aprendendo algo novo.**  
 🐍 Sei um pouco de Python + Automação com Selenium.  
-💻 Atualmente, graduado em **Análise e Desenvolvimento de Sistemas** e cursando **MBA em Gestão de Operações e Tecnologia**.  
+💻 Atualmente, graduado em **Análise e Desenvolvimento de Sistemas** e **MBA em Gestão de Operações e Tecnologia**.  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🌟 Apaixonado por resolver problemas e criar soluções que impactam positivamente.  
+- 🌟 Apaixonado por resolver problemas e criar soluções.  
 - 📚 Estudando tecnologias como **Spring Boot**, **JWT**, **PostgreSQL**, e explorando **Python** e **Selenium**.  
 - 🌍 Estou me especializando em criar APIs Restful e desenvolver sistemas robustos.
 
