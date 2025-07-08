@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vinicius Paim!
 
-🎯 **Desenvolvedor focado em Java e C#, curioso e sempre aprendendo algo novo.**  
+🎯 **Desenvolvedor focado em Python, Java e C#, curioso e sempre aprendendo algo novo.**  
 🐍 Sei um pouco de Python + Automação com Selenium.  
 💻 Atualmente, graduado em **Análise e Desenvolvimento de Sistemas** e **MBA em Gestão de Operações e Tecnologia**.  
 
