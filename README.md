@@ -1,53 +1,45 @@
-# 👋 Olá, eu sou o Vinicius Paim!
+<h1 align="center">Vinicius Paim</h1>
+<p align="center">
+  Profissional de TI com 8+ anos de experiência — de Suporte Nível 3 (Tech Lead) à codificação full stack com <strong>Python</strong> e <strong>Java (Spring Boot)</strong>.
+</p>
 
-🎯 **Desenvolvedor focado em Python, Java e C#, curioso e sempre aprendendo algo novo.**  
-🐍 Sei um pouco de Python + Automação com Selenium.  
-💻 Atualmente, graduado em **Análise e Desenvolvimento de Sistemas** e **MBA em Gestão de Operações e Tecnologia**.  
-
----
-
-## 🚀 Sobre mim
-
-- 🌟 Apaixonado por resolver problemas e criar soluções.  
-- 📚 Estudando tecnologias como **Spring Boot**, **JWT**, **PostgreSQL**, e explorando **Python** e **Selenium**.  
-- 🌍 Estou me especializando em criar APIs Restful e desenvolver sistemas robustos.
+<p align="center"><em>"Meu negócio é resolver problema."</em></p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Stack Principal
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ☕ Java, Spring Boot, JPA
+- 🐍 Python, Selenium
+- 🌐 REST APIs, MongoDB, SQL
+- 🐳 Docker, Git, Linux
 
 ---
 
-## 📂 Projetos Recentes
+## 🛠️ Projetos em Destaque
 
-### 🚀 [Projeto do Intensivão do Nélio Alves](https://github.com/viniciuspaim/dslist)  
-- **Funcionalidades:** Desenvolvimento de um sistema backend com arquitetura RESTful.  
-- **Destaques:** Foco em boas práticas, camadas de serviço e persistência com JPA. 
+### 🔬 PACS em Python
 
-### 🛠️ [API Restful com Spring Boot e MongoDB](https://github.com/viniciuspaim/workshop-spring-boot-mongodb-vinaoc)  
-- **Funcionalidades:** CRUD, DTOs, consultas com vários critérios, e muito mais.
+Sistema de imagens médicas (DICOM). Projeto pessoal em constante evolução.  
+⚡ Entre em contato para uma demonstração ao vivo!
 
-### 🌱 [Spring Boot JPA Workshop](https://github.com/viniciuspaim/springboot3-workshop-jpa)  
-- **Tecnologias:** H2 Database, Maven, Azure App Service.  
+#### 👇 Capturas do Sistema
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/e4a3b9e5-b417-4230-8eab-f9a69e53ddf0" />
+  <img width="300" src="https://github.com/user-attachments/assets/46a91448-6c33-4b03-823b-8b940d935078" />
+  <img width="300" src="https://github.com/user-attachments/assets/1d2e195c-b197-4936-b5ac-91f9a4db5aab" />
+</p>
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/6dc10e0f-98af-4216-87f2-9f021804e3b1" />
+  <img width="300" src="https://github.com/user-attachments/assets/24cb4c08-8f46-4ade-babc-69e3c3762fc9" />
+  <img width="300" src="https://github.com/user-attachments/assets/95c1c4d9-c3e6-40bc-a7c2-f3e61918e259" />
+</p>
 
 ---
 
-## 📫 Entre em Contato!
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-paim)  
+Aberto pra trocar ideia e conversar sobre projetos.  
 
 ---
-
-✨ _Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e contribuir._
