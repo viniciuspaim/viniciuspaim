@@ -41,6 +41,6 @@ Sistema de imagens médicas (DICOM). Projeto pessoal em constante evolução.
 ## 📫 Contato
 
 Aberto pra trocar ideia e conversar sobre projetos.  
-viniciuspaim.credible574@passfwd.com
+contato@viniciuspaim.dev
 
 ---
