@@ -1,9 +1,7 @@
 <h1 align="center">Vinicius Paim</h1>
 <p align="center">
-  Profissional de TI com 8+ anos de experiência — de Suporte Nível 3 (Tech Lead) à codificação full stack com <strong>Python</strong> e <strong>Java (Spring Boot)</strong>.
+  Profissional de TI com 8+ anos de experiência, de Suporte Nível 3 (Tech Lead) à codificação full stack com <strong>Python</strong> e <strong>Java (Spring Boot)</strong>.
 </p>
-
-<p align="center"><em>"Meu negócio é resolver problema."</em></p>
 
 ---
 
@@ -11,7 +9,7 @@
 
 - ☕ Java, Spring Boot, JPA
 - 🐍 Python, Selenium
-- 🌐 REST APIs, MongoDB, SQL
+- 🌐 REST APIs, SQL
 - 🐳 Docker, Git, Linux
 
 ---
